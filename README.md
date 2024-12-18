@@ -6,4 +6,4 @@
 ##### 홈페이지 바로가기: <http://boo1106.dothome.co.kr/outback/outback_main.html>
 ---
 
-### ***코드 수정 필요***
+### ***※ 코드 수정 필요***
